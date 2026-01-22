@@ -23,7 +23,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Il s'agit d'une api qui permet à tous développeur de faire des requêtes directement plutôt que de reconfigurer l'envoie de mail encore et encore. Ceci est entièrement gratuit.
 
 ## Project setup
 
